@@ -11,7 +11,7 @@ I'm a programming student at Artevelde University of Applied Sciences. I enjoy d
 <a href="https://instagram.com/meesakveld"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mees Akveld | Instagram" width="21px"/></a>
 <br>
 - 🙋‍♂️ <a href="https://github.com/pgm-meesakveld">My Github school account</a>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 <br>
 
