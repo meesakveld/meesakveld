@@ -39,8 +39,3 @@ I'm a programming student at Artevelde University of Applied Sciences. I enjoy d
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-<br>
-
-## 📈 Github Stats
-![Github Stats](https://stats.meesakveld.be/api/top-langs/?username=meesakveld&layout=compact)
