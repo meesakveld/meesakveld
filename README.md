@@ -16,10 +16,9 @@ I'm a programming student at Artevelde University of Applied Sciences. I enjoy d
 <br>
 
 ## 🌱 I'm currently learning
-- JavaScript
-- Node.js
+- PHP
+- Next.js
 - Swift
-- Sanity Headless CMS
 
 <br>
 
