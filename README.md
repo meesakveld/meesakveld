@@ -12,7 +12,7 @@ If you have any questions/feedback, please do not hesitate to reach out to me!
       <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Mees Akveld | LinkedIn" width="21px"/>
   </a>
   
-  <a href="https://www.meesakveld.be/contact">
+  <a href="https://www.meesakveld.be/">
       <img align="left" src="https://www.meesakveld.be/favicon.ico" alt="Mees Akveld | LinkedIn" width="21px"/>
   </a>
 </div>
